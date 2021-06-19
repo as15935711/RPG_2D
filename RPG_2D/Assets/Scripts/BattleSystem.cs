@@ -118,7 +118,7 @@ public class BattleSystem : MonoBehaviour
 		playerUnit.Heal(5);
 
 		playerHUD.SetHP(playerUnit.currentHP);
-		dialogueText.text = "You feel renewed strength!";
+		dialogueText.text = "你回復了5點HP!";
 
 		yield return new WaitForSeconds(2f);
 
