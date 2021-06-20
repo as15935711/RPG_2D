@@ -46,9 +46,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   unitName: "\u9F8D"
   unitLevel: 10
-  damage: 5
-  maxHP: 30
-  currentHP: 30
+  damage: 15
+  maxHP: 20
+  currentHP: 20
 --- !u!1 &8933873984655050774
 GameObject:
   m_ObjectHideFlags: 0
@@ -74,7 +74,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8933873984655050774}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.25, y: -1.26, z: 0}
+  m_LocalPosition: {x: -5.25, y: 0, z: 0}
   m_LocalScale: {x: 0.7844112, y: 0.78702456, z: 1.3489355}
   m_Children: []
   m_Father: {fileID: 1639945421628927123}

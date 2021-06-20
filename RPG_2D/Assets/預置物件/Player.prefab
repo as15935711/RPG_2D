@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   unitName: "\u52C7\u8005"
-  unitLevel: 1
+  unitLevel: 8
   damage: 10
   maxHP: 25
   currentHP: 25
